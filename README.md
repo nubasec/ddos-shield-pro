@@ -74,4 +74,20 @@ Una vez activado, navega a **Ajustes** > **Security Monitor**.
 ddos-shield-pro/
 ├── ddos-shield-pro.php    # Núcleo lógico (Firewall, Admin, DB)
 ├── README.md              # Documentación
-└── index.php              # Silencio es oro
+└── index.php              # Acceso
+
+---
+
+## 🌐 Conecta con Nubasec
+
+Llevamos la seguridad web al siguiente nivel. Síguenos para actualizaciones y nuevas herramientas.
+
+[![Website](https://img.shields.io/badge/Website-nubasec.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nubasec.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nubasec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nubasec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nubasec-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nubasec)
+[![Twitter](https://img.shields.io/badge/Twitter-@nubasec-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nubasec)
+
+---
+<p align="center">
+  Generated with ❤️ by <strong>Nubasec Security Team</strong>
+</p>
