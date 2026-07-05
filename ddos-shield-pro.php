@@ -1,9 +1,17 @@
 <?php
 /*
-Plugin Name: DDoS Shield Pro (Professional Alerts V12)
-Description: WAF Completo con Alertas HTML de Alto Diseño, Mapa Mundi, Filtros y Protección Login.
-Version: 12.0
-Author: Tu Equipo de Seguridad
+Plugin Name: DDoS Shield Pro
+Plugin URI: https://github.com/nubasec/ddos-shield-pro
+Description: Protección básica contra abuso de solicitudes, intentos de fuerza bruta, bloqueo de IPs, alertas administrativas y monitoreo de eventos de seguridad.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+Author: Nubasec
+Author URI: https://nubasec.com/
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ddos-shield-pro
+Domain Path: /languages
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit;

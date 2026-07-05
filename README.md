@@ -1,4 +1,4 @@
-# Nubasec Security Shield
+# DDoS Shield Pro
 
 Plugin WordPress para protección básica contra abuso de solicitudes, intentos de fuerza bruta, bloqueo temporal de IPs, alertas administrativas y monitoreo de eventos.
 

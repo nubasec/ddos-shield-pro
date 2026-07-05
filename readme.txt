@@ -1,4 +1,4 @@
-=== Nubasec Security Shield ===
+=== DDoS Shield Pro ===
 Contributors: nubasec
 Tags: security, rate limit, login protection, firewall, monitoring
 Requires at least: 6.0
@@ -12,7 +12,7 @@ Protección básica contra abuso de solicitudes, intentos de fuerza bruta, bloqu
 
 == Description ==
 
-Nubasec Security Shield permite monitorear y mitigar eventos básicos de abuso web desde WordPress.
+DDoS Shield Pro permite monitorear y mitigar eventos básicos de abuso web desde WordPress.
 
 Funcionalidades principales:
 
@@ -38,8 +38,8 @@ Si el administrador activa la opción de geolocalización, el plugin puede consu
 == Installation ==
 
 1. Sube el ZIP del plugin desde Plugins > Añadir nuevo > Subir plugin.
-2. Activa Nubasec Security Shield.
-3. Ve al menú Nubasec Shield.
+2. Activa DDoS Shield Pro.
+3. Ve al menú DDoS Shield Pro.
 4. Ajusta límites, whitelist, correo de alertas y retención de logs.
 5. Valida cuidadosamente los límites antes de usarlo en producción.
 
